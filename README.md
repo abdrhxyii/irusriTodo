@@ -1,2 +1,3 @@
-Vercel deployment - https://irusritodo.vercel.app/
-To setup locally - Clone the project -> cd irusriTodo_ -> npm install -> npm run dev or npm start
+## Vercel
+
+- **Live Link**: [https://irusritodo.vercel.app/](https://irusritodo.vercel.app/)
