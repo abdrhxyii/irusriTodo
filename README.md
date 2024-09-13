@@ -6,6 +6,6 @@
 
 To set up the project locally, follow these steps:
 - clone the project
-- cd irusriTodo_
+- cd irusriTodo
 - npm install
 - npm run dev or npm start
